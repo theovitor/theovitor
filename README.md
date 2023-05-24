@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.sv
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para entrar em contato comigo me segua nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/theovitorrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
