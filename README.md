@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/theovitor">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theovitor&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theovitor&layout=compact&langs_count=6&theme=tokyonigh"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theovitor&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
