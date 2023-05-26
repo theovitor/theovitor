@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/theovitor">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theovitor&show_icons=true&theme=veu-dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theovitor&show_icons=true&theme=vue-dark"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theovitor&layout=compact&langs_count=6&theme=vue-dark"/>
 
 </div>
